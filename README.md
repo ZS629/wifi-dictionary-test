@@ -14,17 +14,19 @@
 
 首先需要[安装python3](https://python.org/)
 
-然后安装tkinter模块
+然后安装pywifi模块
 
 ``` python
-pip install tkinter
+pip install pywifi
 ```
 
 在使用前，请注意，这个项目进用于学习交流和娱乐，请勿用于非法途径
 
 ## 示例
 
-无
+先运行字典生成.py文件（代码可以改，自由发挥，但请确保不用于非法用途）
+然后运行wifi-dictionaryer.py文件，加载文件（选择刚刚生成的那个字典文件）
+即可自动开始测试
 
 ## 贡献者
 
