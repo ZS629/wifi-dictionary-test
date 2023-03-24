@@ -4,19 +4,23 @@
 
 ## 功能
 
-- 字典爆破测试连接
-- 找回忘记的密码
-- 用于测试自己家路由器WiFi密码设置的安全性
+- 字典爆破测试连接WiFi（字典生成可以自行修改，自由发挥）
+- 找回忘记的密码（演示中只能找回简单密码，如8位数的数字密码，需要复杂密码自己改）
+- 用于测试自己家路由器WiFi密码设置的安全性（是否很轻易被破解）
 
 ## 使用说明
 
 如何安装、配置、使用本项目。
 
-首先需要安装python3
+首先需要[安装python3](https://python.org/)
 
 然后安装tkinter模块
 
+``` python
 pip install tkinter
+```
+
+在使用前，请注意，这个项目进用于学习交流和娱乐，请勿用于非法途径
 
 ## 示例
 
@@ -26,10 +30,10 @@ pip install tkinter
 
 ZS629
 
-ChatGPT
+[ChatGPT](https://chat.openai.com/chat?model=gpt-4)
 
-cursor
+[Cursor](https://www.cursor.so)
 
 ## 版权声明
 
-本项目遵循安全 协议，禁止用于非法用途。
+本项目遵循Apache安全协议，禁止用于非法用途。
